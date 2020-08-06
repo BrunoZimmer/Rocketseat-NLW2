@@ -1,0 +1,6 @@
+[submodule "mobile"]
+	path = mobile
+	url = https://github.com/BrunoZimmer/Rocketseat-NLW2
+[submodule "web"]
+	path = web
+	url = https://github.com/BrunoZimmer/Rocketseat-NLW2
